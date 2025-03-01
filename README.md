@@ -44,7 +44,7 @@ I'm a **Full Stack Java Developer** passionate about building scalable web appli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashraf_Shaikh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashraf-shaikh-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-ashraf--shaikh--dev-lightgrey?style=flat&logo=github)](https://github.com/ashraf-shaikh-dev)
-📧 **Email:** [ashrafshaikh.dev@gmail.com](mailto:ashrafshaikh.dev@gmail.com)
+📧 **Email:** [ashrafshaikh.dev@gmail.com](mailto:ashrafshaikh.off@gmail.com)
 
 ---
 
